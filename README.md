@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SabrinaPL
+- 👋 Hi, I’m Sabrina
 - 👀 I’m interested in coding, photography, horseback riding, archery and more
 - 🌱 I’m currently learning web development using the MERN-stack and object oriented programming using Java
 - 💞️ I’m looking to collaborate on web development projects
