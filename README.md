@@ -48,13 +48,6 @@ Check out my **pinned repositories** to see some of the projects I've worked on.
 
 ---
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaPL&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPL&layout=compact)
-
----
-
 ## Connect with me
 
 - LinkedIn: https://linkedin.com/in/sabrina-prichard-lybeck-4089257a
