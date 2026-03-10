@@ -1,12 +1,60 @@
-- 👋 Hi, I’m Sabrina
-- 👀 I’m interested in coding, photography, horseback riding, archery and more
-- 🌱 I’m currently learning web development using the MERN-stack and object oriented programming using Java
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me: www.linkedin.com/in/sabrina-prichard-lybeck-4089257a
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I've competed in the junior world championship (Coupe Mondiale) of classical music on the accordion
+# Hi, I'm Sabrina 👋
 
-<!---
-SabrinaPL/SabrinaPL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Third-year Computer Science student specializing in **Web Development**  
+* Teaching Assistant at **Linnaeus University**, supervising first-year students in client- and server-side web development  
+* Currently doing an **internship at an AI startup**  
+* Previous **internship and summer work in finance**
+
+Check out my **pinned repositories** to see some of the projects I've worked on.
+
+---
+
+## Tech Stack
+
+**Languages I've worked with**
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps / Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
+
+**Other Tools I've worked with**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaPL&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPL&layout=compact)
+
+---
+
+## Connect with me
+
+- LinkedIn: https://linkedin.com/in/sabrina-prichard-lybeck-4089257a
