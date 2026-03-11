@@ -1,4 +1,4 @@
-# Hi, I'm Sabrina 👋
+# Hi, I'm Sabrina
 
 * Third-year Computer Science student specializing in **Web Development**  
 * Teaching Assistant at **Linnaeus University**, supervising first-year students in client- and server-side web development  
