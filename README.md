@@ -32,6 +32,11 @@ Check out my **pinned repositories** to see some of the projects I've worked on.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-A91E50?style=for-the-badge)
 
+## ORMs/ODMs
+
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
