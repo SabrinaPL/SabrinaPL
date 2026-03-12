@@ -10,7 +10,7 @@ Check out my **pinned repositories** to see some of the projects I've worked on.
 
 ---
 
-## Tech Stack I've worked with
+## Tech Stack I've worked with and am learning
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
