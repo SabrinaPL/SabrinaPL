@@ -4,6 +4,7 @@
 * Teaching Assistant at **Linnaeus University**, supervising first-year students in client- and server-side web development  
 * Currently doing an **internship at an AI startup**  
 * Previous **internship and summer work in finance**
+* Background as a **clinical social worker** (bachelor's degree and a 1 year master's degree in Social Sciences) and **Cognitive Behavioral-therapist** (with foundational psychotherapy training)
 
 Check out my **pinned repositories** to see some of the projects I've worked on.
 
