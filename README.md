@@ -4,7 +4,7 @@
 * Teaching Assistant at **Linnaeus University**, supervising first-year students in client- and server-side web development  
 * Currently doing an **internship at an AI startup** as a junior developer
 * Previous **internship and summer work in finance** as a junior developer
-* Background as a **Clinical Social Worker** (holding a bachelor's degree and a 1 year master's degree in Social Sciences) and a **CBT-therapist** (with foundational psychotherapy training specializing in Cognitive Behavioral Therapy)
+* Background as a **Clinical Social Worker** (holding a bachelor's degree and a 1 year master's degree in Social Work) and a **CBT-therapist** (with foundational psychotherapy training specializing in Cognitive Behavioral Therapy)
 * Freelancing wedding **photographer**
 * Native speaker of **Swedish** and **English** with a lower-intermediate level of **Japanese** and **French**
 
