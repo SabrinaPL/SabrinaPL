@@ -6,6 +6,7 @@
 * Previous **internship and summer work in finance** as a junior developer
 * Background as a **Clinical Social Worker** (holding a bachelor's degree and a 1 year master's degree in Social Sciences) and a **CBT-therapist** (with foundational psychotherapy training specializing in Cognitive Behavioral Therapy)
 * Freelancing wedding **photographer**
+* Native speaker of **Swedish** and **English** with a lower-intermediate level of **Japanese** and **French**
 
 Check out my **pinned repositories** to see some of the projects I've worked on.
 
