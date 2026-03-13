@@ -5,6 +5,7 @@
 * Currently doing an **internship at an AI startup**  
 * Previous **internship and summer work in finance**
 * Background as a **Clinical Social Worker** (holding a bachelor's degree and a 1 year master's degree in Social Sciences) and a **CBT-therapist** (with foundational psychotherapy training specializing in Cognitive Behavioral Therapy)
+* Freelancing wedding photographer
 
 Check out my **pinned repositories** to see some of the projects I've worked on.
 
