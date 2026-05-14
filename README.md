@@ -2,7 +2,7 @@
 
 * Third-year Computer Science student specializing in **Web Development**  
 * Teaching Assistant at **Linnaeus University**, supervising first-year students in client- and server-side web development  
-* Currently doing an **internship at an AI startup** as a junior developer
+* Currently doing an **internship at an AI startup** as a junior developer and recently joined another **AI startup** as a consultant
 * Previous **internship and summer work in finance** as a junior developer
 * Background as a **Clinical Social Worker** (holding a bachelor's degree and a 1 year master's degree in Social Work) and a **CBT-therapist** (with foundational psychotherapy training specializing in Cognitive Behavioral Therapy)
 * Freelancing wedding **photographer**
