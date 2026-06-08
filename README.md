@@ -1,8 +1,8 @@
 # Hi, I'm Sabrina
 
-* Third-year Computer Science student specializing in **Web Development**  
-* Teaching Assistant at **Linnaeus University**, supervising first-year students in client- and server-side web development  
-* Currently doing an **internship at an AI startup** as a junior developer and recently joined another **AI startup** as a consultant
+* **Full stack dev** specializing in **Web Development** with a **B.Sc. in Computer Science** from Linneaus University
+* Experience working as a Teaching Assistant at **Linnaeus University**, supervising first-year students in client- and server-side web development  
+* Experience as a junior dev **intern at an AI startup** and recently joined another **AI startup** as a consultant
 * Previous **internship and summer work in finance** as a junior developer
 * Background as a **Clinical Social Worker** (holding a bachelor's degree and a 1 year master's degree in Social Work) and a **CBT-therapist** (with foundational psychotherapy training specializing in Cognitive Behavioral Therapy)
 * Freelancing wedding **photographer**
