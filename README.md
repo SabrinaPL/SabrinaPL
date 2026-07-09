@@ -1,6 +1,6 @@
 # Hi, I'm Sabrina
 
-* **Full Stack developer** specializing in **Web Development** with a **B.Sc. in Computer Science** from Linneaus University
+* **Full Stack developer** specializing in **Web Development** with a **B.Sc. in Computer Science** from Linneaus University. Graduated 2026.
 * Experience working as a Teaching Assistant at **Linnaeus University**, 2025-2026, supervising first-year students in client- and server-side web development  
 * Experience as a junior dev **intern at an AI startup**, 2025-2026, and recently joined another **AI startup** as a consultant
 * Previous **internship and summer work in finance**, 2024-2025, as a junior developer
